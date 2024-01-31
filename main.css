@@ -131,3 +131,10 @@ html {
 .button:hover {
   background-color: #555;
 }
+
+.map {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
